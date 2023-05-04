@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 4" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 27" >
+      <vfs_project>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_project>
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_project>
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 4" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 4" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 19" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 19" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 4" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 28" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\common_types.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 26" line=" 4" >
+      <vfs_project />
+      <vfs_file>E:\Repos\2D_gameEngine\physics engine\physics_engine.gpr</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
