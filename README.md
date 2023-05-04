@@ -2,6 +2,10 @@
 _Description_ \
 a project to build a 2d game engine
 
+_languages_ - ADA\Rust\C++ \
+_libraries_ - TBD \
+_packages_ - TBD 
+
 ## physics engine 
 _language_ - ADA \
 _libraries_ - TBD \
